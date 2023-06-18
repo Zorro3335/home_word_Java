@@ -9,7 +9,7 @@ package org.example;
 // *Пункты реализовать в разных методах
 import java.util.Random;
 
-public class HW1 {
+public class Main {
     public static void main(String[] args) {
         Random random = new Random();
         int i = random.nextInt(2000);
